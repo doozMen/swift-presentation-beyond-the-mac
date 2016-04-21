@@ -23,7 +23,7 @@ A look at the _swift language_ from a __drawing__ perspective
 
 ---
 
- Based on _[a presentation](https://vimeo.com/album/3132071/video/111942502)_ of __@srbaker__ @NSConference 2014
+ Based on _[a presentation](https://vimeo.com/album/3132071/video/111942502)_ of __@srbaker__ @NSScotland 2014
 
 ^ Pragmatisch omgaan met Paradigmas
 ^ Een taal purist ben ik niet maar het is wel fijn om te weten waar je over praat. Als iemand anders dat goed doet, tja dan moet ik het wiel niet heruitvinden:)
